@@ -1,0 +1,24 @@
+0-Screen_Width: 1080
+1-Screen_Height: 720
+2-Antialiasing: 32
+3-Frame_Rate: 60
+
+4-Vertex_Spacing: 5
+5-Terrain_Size: 100000
+
+6-Lander_Mass: 600
+7-Lander_Thrust: 50000
+8-Lander_Drag: 1
+9-Lander_MaxFuel: 100
+
+10-Gravity: 30000
+
+11-Crash_Angle: 20
+12-Crash_Terrain_Roughness: 15
+13-Crash_Speed: 25
+
+14-Rotation_Speed: 100
+15-Fuel_Reward: 30
+16-Fuel_Consumption: 2
+
+17-Volume: 60
